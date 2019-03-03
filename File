@@ -1,0 +1,5 @@
+TSUIToastBackgroundView:    控件背景view
+TSUIToastContentView:       控件容器view
+TSUIToastAnimator:          默认展示的几种动画
+TSUIToastView:              展示view 默认大小为parentView的大小
+
